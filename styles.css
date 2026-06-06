@@ -115,6 +115,9 @@ img {
     z-index: 100;
     padding: 10px 0;
 }
+.header .btn {
+    margin-left: 20px;
+}
 
 .header-content {
     display: flex;
